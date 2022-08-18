@@ -6,7 +6,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; KEEP THIS CODE FOR ALL LABS UNLESS INSTRUCTED TO DO OTHERWISE;
+; KEEP THIS CODE UNLESS INSTRUCTED TO DO OTHERWISE			   ;
 ;                                                              ;
 .ORG 0x0000           ; the next instruction has to be         ;
                       ; written to address 0x0000              ;
